@@ -15,7 +15,8 @@ namespace LearningCSharp
             // new Variables();
             // new Constants();
             // new TypeCasting();
-            new UserInput();
+            // new UserInput();
+            new ArithmeticOperators();
         }
     }
 }
