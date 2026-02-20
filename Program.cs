@@ -17,7 +17,8 @@ namespace LearningCSharp
             // new TypeCasting();
             // new UserInput();
             // new ArithmeticOperators();
-            new Math();
+            // new Math();
+            new RandomNumbers();
         }
     }
 }
