@@ -7,7 +7,15 @@ namespace LearningCSharp
     {
         static void Main(string[] args)
         {
-            BroCodeTutorial.UserInput userInput = new();
+            Program.BroCodeTutorial();
+        }
+
+        static void BroCodeTutorial()
+        {
+            // new Variables();
+            // new Constants();
+            // new TypeCasting();
+            new UserInput();
         }
     }
 }

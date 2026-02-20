@@ -1,10 +1,8 @@
-using System;
-
 namespace LearningCSharp.BroCodeTutorial
 {
-    class TypeCasting
+    public class TypeCasting
     {
-        static void Main(string[] args)
+        public TypeCasting()
         {
             // type casting = convert a variable type to a different one
 

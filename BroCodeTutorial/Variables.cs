@@ -1,10 +1,8 @@
-using System;
-
 namespace LearningCSharp.BroCodeTutorial
 {
-    class Variables
+    public class Variables
     {
-        static void Main(string[] args)
+        public Variables()
         {
             int x; // declaration
             x = 123; // initialization

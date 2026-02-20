@@ -1,10 +1,8 @@
-using System;
-
 namespace LearningCSharp.BroCodeTutorial
 {
-    class UserInput
+    public class UserInput
     {
-        static void Main(string[] args)
+        public UserInput()
         {
             Console.WriteLine("Enter your name");
             String name = Console.ReadLine(); // this will throw an exception when null is passed, when you press enter without typing anything

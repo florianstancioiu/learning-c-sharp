@@ -1,11 +1,8 @@
-using System;
-
 namespace LearningCSharp.BroCodeTutorial
 {
-    
-    class Constants
+    public class Constants
     {
-        static void Main(string[] args)
+        public Constants()
         {
             /* 
                 In order to set a variable as a constant you must prefix the data type with the const keyword
