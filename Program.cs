@@ -1,5 +1,5 @@
-﻿using System;
-using LearningCSharp.BroCodeTutorial;
+﻿using LearningCSharp.BroCodeTutorial;
+using Math = LearningCSharp.BroCodeTutorial.Math;
 
 namespace LearningCSharp
 {
@@ -16,7 +16,8 @@ namespace LearningCSharp
             // new Constants();
             // new TypeCasting();
             // new UserInput();
-            new ArithmeticOperators();
+            // new ArithmeticOperators();
+            new Math();
         }
     }
 }
