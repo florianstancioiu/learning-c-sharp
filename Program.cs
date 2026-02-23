@@ -23,7 +23,8 @@ namespace LearningCSharp
             // new StringMethods();
             // new ControlStructures();
             // new NumberGuessingGame();
-            new RockPaperScissors();
+            // new RockPaperScissors();
+            new CalculatorProgram();
         }
     }
 }
