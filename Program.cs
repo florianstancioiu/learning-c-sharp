@@ -22,7 +22,8 @@ namespace LearningCSharp
             // new HypotenuseCalculator();
             // new StringMethods();
             // new ControlStructures();
-            new NumberGuessingGame();
+            // new NumberGuessingGame();
+            new RockPaperScissors();
         }
     }
 }
