@@ -22,6 +22,6 @@ This is the repo I use to learn C# on Ubuntu
 
 - Feb 17th, 2026 - `1.5 hours` - I created the initial repo and watched the first four sections of _C# Full Course for free 🎵_
 - Feb 20th, 2026 - `1.5 hours` - I split the code into separate class files and watch 4 new sections from the tutorial
-- Feb 23th, 2026 - started at 7
+- Feb 23th, 2026 - `2 hours` - I created some CLI apps from scratch
 
-Time spent learning: `3 hours`
+Time spent learning: `5 hours`
