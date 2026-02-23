@@ -19,7 +19,8 @@ namespace LearningCSharp
             // new ArithmeticOperators();
             // new Math();
             // new RandomNumbers();
-            new HypotenuseCalculator();
+            // new HypotenuseCalculator();
+            new StringMethods();
         }
     }
 }
