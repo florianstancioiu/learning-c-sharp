@@ -20,7 +20,8 @@ namespace LearningCSharp
             // new Math();
             // new RandomNumbers();
             // new HypotenuseCalculator();
-            new StringMethods();
+            // new StringMethods();
+            new ControlStructures();
         }
     }
 }
