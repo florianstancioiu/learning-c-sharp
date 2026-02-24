@@ -27,7 +27,8 @@ namespace LearningCSharp
             // new CalculatorProgram();
             // new Arrays();
             // new ForEachLoop();
-            new Methods();
+            // new Methods();
+            new ReturnKeyword();
         }
     }
 }
