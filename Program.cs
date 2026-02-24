@@ -26,7 +26,8 @@ namespace LearningCSharp
             // new RockPaperScissors();
             // new CalculatorProgram();
             // new Arrays();
-            new ForEachLoop();
+            // new ForEachLoop();
+            new Methods();
         }
     }
 }
