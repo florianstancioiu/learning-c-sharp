@@ -23,6 +23,6 @@ This is the repo I use to learn C# on Ubuntu
 - Feb 17th, 2026 - `1.5 hours` - I created the initial repo and watched the first four sections of _C# Full Course for free 🎵_
 - Feb 20th, 2026 - `1.5 hours` - I split the code into separate class files and watch 4 new sections from the tutorial
 - Feb 23th, 2026 - `2 hours` - I created some CLI apps from scratch
-- Feb 24th, 2026 - started at 14:00
+- Feb 24th, 2026 - `1.5 hours` - I watched the tutorial up until the string interpolation section
 
-Time spent learning: `5 hours`
+Time spent learning: `6.5 hours`
