@@ -30,7 +30,8 @@ namespace LearningCSharp
             // new Methods();
             // new ReturnKeyword();
             // new MethodOverloading();
-            new ParamsKeyword();
+            // new ParamsKeyword();
+            new ExceptionHandling();
         }
     }
 }
