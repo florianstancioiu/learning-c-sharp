@@ -31,7 +31,8 @@ namespace LearningCSharp
             // new ReturnKeyword();
             // new MethodOverloading();
             // new ParamsKeyword();
-            new ExceptionHandling();
+            // new ExceptionHandling();
+            new TernaryOperator();
         }
     }
 }
