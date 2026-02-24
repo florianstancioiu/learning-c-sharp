@@ -25,7 +25,8 @@ namespace LearningCSharp
             // new NumberGuessingGame();
             // new RockPaperScissors();
             // new CalculatorProgram();
-            new Arrays();
+            // new Arrays();
+            new ForEachLoop();
         }
     }
 }
