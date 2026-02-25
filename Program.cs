@@ -37,7 +37,8 @@ namespace LearningCSharp
             // new MultidimensionalArrays();
             // new Classes();
             // new Objects();
-            new ObjectConstructors();
+            // new ObjectConstructors();
+            new StaticKeyword();
         }
     }
 }
