@@ -35,7 +35,8 @@ namespace LearningCSharp
             // new TernaryOperator();
             // new StringInterpolation();
             // new MultidimensionalArrays();
-            new Classes();
+            // new Classes();
+            new Objects();
         }
     }
 }
