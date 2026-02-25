@@ -34,7 +34,8 @@ namespace LearningCSharp
             // new ExceptionHandling();
             // new TernaryOperator();
             // new StringInterpolation();
-            new MultidimensionalArrays();
+            // new MultidimensionalArrays();
+            new Classes();
         }
     }
 }
