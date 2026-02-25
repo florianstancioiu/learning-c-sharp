@@ -33,7 +33,8 @@ namespace LearningCSharp
             // new ParamsKeyword();
             // new ExceptionHandling();
             // new TernaryOperator();
-            new StringInterpolation();
+            // new StringInterpolation();
+            new MultidimensionalArrays();
         }
     }
 }
