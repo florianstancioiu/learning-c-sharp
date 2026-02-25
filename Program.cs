@@ -32,7 +32,8 @@ namespace LearningCSharp
             // new MethodOverloading();
             // new ParamsKeyword();
             // new ExceptionHandling();
-            new TernaryOperator();
+            // new TernaryOperator();
+            new StringInterpolation();
         }
     }
 }
