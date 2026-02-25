@@ -40,7 +40,8 @@ namespace LearningCSharp
             // new ObjectConstructors();
             // new StaticKeyword();
             // new OverloadedConstructors();
-            new Inheritance();
+            // new Inheritance();
+            new AbstractClasses();
         }
     }
 }
