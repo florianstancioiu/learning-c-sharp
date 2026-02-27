@@ -5,7 +5,7 @@ namespace LearningCSharp.BroCodeTutorial
         public Interfaces()
         {
             // interface = a contract that all inheriting classes should follow
-            // a class denotes that it implements an interfaces with the colon sign (:)
+            // a class signals that implements an interface (or multiple interfaces) with the colon sign (:)
 
             Rabbit rabbit = new Rabbit();
             rabbit.Flee();
