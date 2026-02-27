@@ -42,7 +42,8 @@ namespace LearningCSharp
             // new OverloadedConstructors();
             // new Inheritance();
             // new AbstractClasses();
-            new ArrayOfObjects();
+            // new ArrayOfObjects();
+            new ObjectsAsArguments();
         }
     }
 }
