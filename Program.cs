@@ -44,7 +44,8 @@ namespace LearningCSharp
             // new AbstractClasses();
             // new ArrayOfObjects();
             // new ObjectsAsArguments();
-            new MethodOverriding();
+            // new MethodOverriding();
+            new ToStringMethod();
         }
     }
 }
