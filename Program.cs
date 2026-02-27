@@ -43,7 +43,8 @@ namespace LearningCSharp
             // new Inheritance();
             // new AbstractClasses();
             // new ArrayOfObjects();
-            new ObjectsAsArguments();
+            // new ObjectsAsArguments();
+            new MethodOverriding();
         }
     }
 }
