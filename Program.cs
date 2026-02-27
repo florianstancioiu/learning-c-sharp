@@ -46,7 +46,8 @@ namespace LearningCSharp
             // new ObjectsAsArguments();
             // new MethodOverriding();
             // new ToStringMethod();
-            new Polymorphism();
+            // new Polymorphism();
+            new Interfaces();
         }
     }
 }
