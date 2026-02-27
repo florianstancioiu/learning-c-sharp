@@ -4,7 +4,7 @@ namespace LearningCSharp.BroCodeTutorial
     {
         public AbstractClasses()
         {
-            // the abstract modifier signals the fact that the class that it's used on has an incomplete implementation
+            // the abstract modifier signals that the class has an incomplete implementation
 
             // Vehicle2 vehicle = new Vehicle2(); // this is not allowed because the class Vehicle2 is incomplete
             Car4 bmw = new Car4(); // this is allowed because it's not abstract
