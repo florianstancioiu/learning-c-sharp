@@ -49,7 +49,8 @@ namespace LearningCSharp
             // new Polymorphism();
             // new Interfaces();
             // new Lists();
-            new ListsOfObjects();
+            // new ListsOfObjects();
+            new GettersAndSetters();
         }
     }
 }
