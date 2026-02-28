@@ -48,7 +48,8 @@ namespace LearningCSharp
             // new ToStringMethod();
             // new Polymorphism();
             // new Interfaces();
-            new Lists();
+            // new Lists();
+            new ListsOfObjects();
         }
     }
 }
