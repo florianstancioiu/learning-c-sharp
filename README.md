@@ -26,6 +26,6 @@ This is the repo I use to learn C# on Ubuntu
 - Feb 24th, 2026 - `1.5 hours` - I watched the tutorial up until the string interpolation section
 - Feb 25th, 2026 - `2 hours` - I watched the tutorial up until the array of objects section
 - Feb 27th, 2026 - `1.5 hours` - I watched the tutorial up until the lists section
-- Feb 28th, 2026 - started at 12:00
+- Feb 28th, 2026 - `1.5 hours` - I completed the tutorial from Bro Code
 
-Time spent learning: `10 hours`
+Time spent learning: `11.5 hours`
