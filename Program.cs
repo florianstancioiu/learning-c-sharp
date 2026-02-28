@@ -53,7 +53,8 @@ namespace LearningCSharp
             // new GettersAndSetters();
             // new AutoImplementedProperties();
             // new Enums();
-            new Generics();
+            // new Generics();
+            new Multithreading();
         }
     }
 }
