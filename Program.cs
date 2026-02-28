@@ -50,7 +50,8 @@ namespace LearningCSharp
             // new Interfaces();
             // new Lists();
             // new ListsOfObjects();
-            new GettersAndSetters();
+            // new GettersAndSetters();
+            new AutoImplementedProperties();
         }
     }
 }
