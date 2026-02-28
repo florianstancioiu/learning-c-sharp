@@ -52,7 +52,8 @@ namespace LearningCSharp
             // new ListsOfObjects();
             // new GettersAndSetters();
             // new AutoImplementedProperties();
-            new Enums();
+            // new Enums();
+            new Generics();
         }
     }
 }
