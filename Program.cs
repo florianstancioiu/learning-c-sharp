@@ -8,6 +8,8 @@ namespace LearningCSharp
         static void Main(string[] args)
         {
             Program.BroCodeTutorial();
+
+            Console.ReadKey();
         }
 
         static void BroCodeTutorial()
