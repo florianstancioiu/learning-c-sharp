@@ -1,5 +1,4 @@
 ﻿using LearningCSharp.BroCodeTutorial;
-using Math = LearningCSharp.BroCodeTutorial.Math;
 
 namespace LearningCSharp
 {
