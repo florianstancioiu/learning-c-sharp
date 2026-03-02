@@ -32,7 +32,7 @@ namespace LearningCSharp.BroCodeTutorial
             }
 
             Console.WriteLine("Enter your name: ");
-            String name = Console.ReadLine();
+            String? name = Console.ReadLine();
 
             if (name == "")
             {
@@ -47,7 +47,7 @@ namespace LearningCSharp.BroCodeTutorial
         public void switchStatement()
         {
             Console.WriteLine("Enter day: ");
-            String day = Console.ReadLine();
+            String? day = Console.ReadLine();
 
             switch(day)
             {

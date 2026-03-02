@@ -10,6 +10,8 @@ namespace LearningCSharp.BroCodeTutorial
 
             String phoneNumber = "123-456-7890";
 
+            Console.WriteLine(phoneNumber);
+
             // phoneNumber = phoneNumber.Replace("-", "/");
 
             String userName = fullName.Insert(0, "@");

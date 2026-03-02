@@ -24,7 +24,7 @@ namespace LearningCSharp.BroCodeTutorial
 
     public class Human
     {
-        public String name;
+        public String? name;
         public int age;
 
         public void eat()

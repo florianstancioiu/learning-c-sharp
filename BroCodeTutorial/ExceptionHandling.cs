@@ -21,14 +21,17 @@ namespace LearningCSharp.BroCodeTutorial
             } 
             catch(FormatException e)
             {
+                Console.WriteLine(e.Message);
                 Console.WriteLine("Enter ONLY numbers!");
             }
             catch(DivideByZeroException e)
             {
+                Console.WriteLine(e.Message);
                 Console.WriteLine("You can't divide by zero!");
             }
             catch(Exception e)
             {
+                Console.WriteLine(e.Message);
                 Console.WriteLine("Something went wrong");
             }
             finally
