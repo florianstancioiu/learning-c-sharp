@@ -6,12 +6,14 @@ This is the repo I use to learn C# on Ubuntu and Windows 11
 
 1.  Run `dotnet new console` in the directory you want the program to exist.
 2.  Run `dotnet run` in the project directory to run the application
-3.  Run `dotnet build` to create the _bin_ and _obj_ dirs (to install all the dependecies - sorta like `composer install` or `npm install`)
+3.  Run `dotnet build` to build the project / to create the _bin_ and _obj_ dirs 
+
 
 ## Helpful resources
 
 - [How do I compile and run a C# code in VSCode (Linux Ubuntu)?](https://stackoverflow.com/a/60388060/12159189) - This helped me run code on Ubuntu
 - [Install .NET SDK or .NET Runtime on Ubuntu](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-install?tabs=dotnet10&pivots=os-linux-ubuntu-2404#ubuntu-2404) - This helped me install dotnet on Ubuntu
+- [Create .NET apps faster with NuGet](https://www.nuget.org/) - Package manager (Composer/NPM equivalent in C#)
 
 ## Tutorials to watch
 
