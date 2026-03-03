@@ -71,7 +71,8 @@ namespace LearningCSharp
             // new OutParameter();
             // new PassByReference();
             // new DateTimeAndTimeSpan();
-            new Structs();
+            // new Structs();
+            new NullableTypes();
         }
     }
 }
