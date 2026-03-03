@@ -1,4 +1,5 @@
 ﻿using LearningCSharp.BroCodeTutorial;
+using LearningCSharp.DerekBanasTutorial;
 
 namespace LearningCSharp
 {
@@ -6,9 +7,11 @@ namespace LearningCSharp
     {
         static void Main(string[] args)
         {
-            Program.BroCodeTutorial();
+            // Program.BroCodeTutorial();
+            Program.DerekBanasTutorial();
 
-            Console.ReadKey();
+            // Keep the terminal open until you press a key
+            // Console.ReadKey();
         }
 
         static void BroCodeTutorial()
@@ -56,6 +59,15 @@ namespace LearningCSharp
             // new Enums();
             // new Generics();
             new Multithreading();
+        }
+
+        static void DerekBanasTutorial()
+        {
+            // new DataTypes();
+            // new Casting();
+            // new FormattingOutput();
+            // new StringFormat();
+            new StringBuilderNotion();
         }
     }
 }
