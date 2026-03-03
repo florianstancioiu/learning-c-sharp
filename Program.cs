@@ -67,7 +67,8 @@ namespace LearningCSharp
             // new Casting();
             // new FormattingOutput();
             // new StringFormat();
-            new StringBuilderNotion();
+            // new StringBuilderNotion();
+            new OutParameter();
         }
     }
 }
