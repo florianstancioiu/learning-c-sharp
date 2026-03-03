@@ -70,7 +70,8 @@ namespace LearningCSharp
             // new StringBuilderNotion();
             // new OutParameter();
             // new PassByReference();
-            new DateTimeAndTimeSpan();
+            // new DateTimeAndTimeSpan();
+            new Structs();
         }
     }
 }
