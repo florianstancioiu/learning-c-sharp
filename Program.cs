@@ -76,7 +76,8 @@ namespace LearningCSharp
             // new NullableTypes();
             // new InnerClasses();
             // new ComplexExample();
-            new ArrayLists();
+            // new ArrayLists();
+            new Dictionaries();
         }
     }
 }
