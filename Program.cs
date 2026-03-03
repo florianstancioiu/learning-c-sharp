@@ -68,7 +68,8 @@ namespace LearningCSharp
             // new FormattingOutput();
             // new StringFormat();
             // new StringBuilderNotion();
-            new OutParameter();
+            // new OutParameter();
+            new PassByReference();
         }
     }
 }
