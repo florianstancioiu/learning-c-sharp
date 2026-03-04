@@ -89,7 +89,8 @@ namespace LearningCSharp
             // new AnonymousTypes();
             // new LINQNotion();
             // new DirectoryFunctions();
-            new FileIO();
+            // new FileIO();
+            new FileStreams();
         }
     }
 }
