@@ -78,7 +78,8 @@ namespace LearningCSharp
             // new ComplexExample();
             // new ArrayLists();
             // new Dictionaries();
-            new GenericsNotion();
+            // new GenericsNotion();
+            new Delegates();
         }
     }
 }
