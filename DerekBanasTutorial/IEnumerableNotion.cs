@@ -13,7 +13,6 @@ namespace LearningCSharp.DerekBanasTutorial
             myAnimals[2] = new Animal2("Gandor");
             myAnimals[3] = new Animal2("Charlotte");
 
-
             foreach(Animal2 animal in myAnimals)
             {
                 Console.WriteLine(animal.Name);
