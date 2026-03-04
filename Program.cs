@@ -80,7 +80,8 @@ namespace LearningCSharp
             // new Dictionaries();
             // new GenericsNotion();
             // new Delegates();
-            new Lambdas();
+            // new Lambdas();
+            new SelectNotion();
         }
     }
 }
