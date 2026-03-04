@@ -86,7 +86,8 @@ namespace LearningCSharp
             // new AgregateNotion();
             // new IEnumerableNotion();
             // new OperatorOverloading();
-            new AnonymousTypes();
+            // new AnonymousTypes();
+            new LINQNotion();
         }
     }
 }
