@@ -81,7 +81,8 @@ namespace LearningCSharp
             // new GenericsNotion();
             // new Delegates();
             // new Lambdas();
-            new SelectNotion();
+            // new SelectNotion();
+            new ZipNotion();
         }
     }
 }
