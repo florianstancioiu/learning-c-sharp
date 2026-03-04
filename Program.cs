@@ -79,7 +79,8 @@ namespace LearningCSharp
             // new ArrayLists();
             // new Dictionaries();
             // new GenericsNotion();
-            new Delegates();
+            // new Delegates();
+            new Lambdas();
         }
     }
 }
