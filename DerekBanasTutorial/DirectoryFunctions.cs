@@ -15,11 +15,15 @@ namespace LearningCSharp.DerekBanasTutorial
             String dirLocation = @"C:\Code\learning-c-sharp\DinamicallyCreated";
             DirectoryInfo dinamicallyCreatedDir = new DirectoryInfo(dirLocation);
 
-            // Create the directory
-            dinamicallyCreatedDir.Create();
+            if (!Directory.Exists(dirLocation))
+            {
+                // Create the directory
+                dinamicallyCreatedDir.Create();
+                
+                // Delete the directory
+                // Directory.Delete(dirLocation);
+            }
 
-            // Delete the directory
-            Directory.Delete(dirLocation);
         }
     }
 }
