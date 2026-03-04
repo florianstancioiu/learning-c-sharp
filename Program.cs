@@ -83,7 +83,8 @@ namespace LearningCSharp
             // new Lambdas();
             // new SelectNotion();
             // new ZipNotion();
-            new AgregateNotion();
+            // new AgregateNotion();
+            new IEnumerableNotion();
         }
     }
 }
